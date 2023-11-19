@@ -1,0 +1,28 @@
+# Veggies
+broccoli
+brussels sprouts
+cabbage
+green bean
+kale
+lettuce
+parsnips
+soybean
+tomatoes
+
+# Fruits
+apple
+dragonfruit
+durian
+lychee
+mango
+passionfruit
+peach
+pear
+pineapple
+plum
+pomegranate
+
+# grains
+wheat
+rice
+rye
